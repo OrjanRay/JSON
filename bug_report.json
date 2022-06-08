@@ -1,0 +1,11 @@
+{
+  
+  "bug_ID": "123a",
+  "title": "Contact form - No confirmation message is shown",
+  "summary": "the page where the contact form is on does not show any confirmation message after submitting a contact request",
+  "STR": "1 open the contact page, 2 click on the contact form, 3 fill in contact request, 4 submit a contact request",
+  "exp_res": "confirmation window is shown after submitting a contact request",
+  "act_res": "no confirmation window is shown",
+  "screenshot": "attached"
+
+}
